@@ -1,0 +1,8 @@
+.login__bg {
+    background-image: url(../assets/chat-app-logo.webp);
+    height: 50vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
