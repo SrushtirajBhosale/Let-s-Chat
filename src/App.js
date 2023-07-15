@@ -21,7 +21,6 @@ function App() {
     <BrowserRouter>
       <Navigation/ >
       <Routes>
-        <Route path="/" element= { <Home /> }/>
         {!user && (
           <>
             <Route path="/login" element={<Login />} />
@@ -29,6 +28,7 @@ function App() {
           </>
         )}
         <Route path="/chat" element= { <Chat /> } />
+        <Route path="/" element= { <Home /> }/>
       </Routes>
     </BrowserRouter>
     </AppContext.Provider>
