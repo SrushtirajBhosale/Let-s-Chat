@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Lets-Chat/static/css/main.f9ae7fe5.css",
-    "main.js": "/Lets-Chat/static/js/main.43f77f69.js",
+    "main.js": "/Lets-Chat/static/js/main.a1696abe.js",
     "static/js/787.cda612ba.chunk.js": "/Lets-Chat/static/js/787.cda612ba.chunk.js",
     "static/media/user-icon.png": "/Lets-Chat/static/media/user-icon.6d35fb5a43e16f8bc332.png",
     "static/media/chat-app-logo.webp": "/Lets-Chat/static/media/chat-app-logo.1d60e486600966e278c0.webp",
     "index.html": "/Lets-Chat/index.html",
     "main.f9ae7fe5.css.map": "/Lets-Chat/static/css/main.f9ae7fe5.css.map",
-    "main.43f77f69.js.map": "/Lets-Chat/static/js/main.43f77f69.js.map",
+    "main.a1696abe.js.map": "/Lets-Chat/static/js/main.a1696abe.js.map",
     "787.cda612ba.chunk.js.map": "/Lets-Chat/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f9ae7fe5.css",
-    "static/js/main.43f77f69.js"
+    "static/js/main.a1696abe.js"
   ]
 }
